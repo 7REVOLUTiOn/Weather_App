@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<declare-styleable name="TempWeatherPrefix">
+        <attr name="_cityName_CityWeatherView" format="string"/>
+    </declare-styleable>
+    <style name="CityWeatherView">
+        <item name="_cityName_CityWeatherView">cityName</item>
+    </style>-->
+
+
+</resources>

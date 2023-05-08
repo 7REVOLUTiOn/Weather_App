@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CityWeatherView">
+        <attr name="_cityName_CityWeatherView" format="string"/>
+        <attr name="_temp_CityWeatherView" format="string"/>
+        <attr name="_date_CityWeatherView" format="string"/>
+        <attr name="_feelsLike_CityWeatherView" format="string"/>
+        <attr name="_conditions_CityWeatherView" format="string"/>
+        <attr name="_backrground_CityWeatherView" format="reference"/>
+        <attr name="_isLoading_CityWeatherView" format="boolean"/>
+        <attr name="_hideAll_CityWeatherView" format="boolean"/>
+        <attr name="_iconUrl_CityWeatherView" format="string"/>
+    </declare-styleable>
+
+    <style name="CityWeatherView">
+        <item name="_cityName_CityWeatherView">cityName</item>
+        <item name="_temp_CityWeatherView">temp</item>
+        <item name="_date_CityWeatherView">date</item>
+        <item name="_feelsLike_CityWeatherView">feelsLike</item>
+        <item name="_conditions_CityWeatherView">conditions</item>
+        <item name="_backrground_CityWeatherView">@drawable/day1</item>
+        <item name="_isLoading_CityWeatherView">true</item>
+        <item name="_hideAll_CityWeatherView">true</item>
+        <item name="_iconUrl_CityWeatherView"></item>
+    </style>
+
+</resources>
